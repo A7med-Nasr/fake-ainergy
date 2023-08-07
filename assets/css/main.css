@@ -1009,7 +1009,7 @@ footer .rights a:hover {
 /* footer media for small screens  */
 @media(max-width:600px) {
     footer {
-        margin-top: 450px;
+        margin-top: 600px;
     }
     footer .rights p.copy {
         font-size: 14px;
