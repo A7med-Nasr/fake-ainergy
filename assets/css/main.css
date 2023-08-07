@@ -902,7 +902,6 @@ html {
     }
 
     .contact .btn button {
-        margin-top: 20px;
         font-size: 22px;
         padding: 20px 30px;
         border-radius: 50px;
@@ -1011,6 +1010,7 @@ footer .rights a:hover {
     footer {
         margin-top: 600px;
     }
+
     footer .rights p.copy {
         font-size: 14px;
     }
