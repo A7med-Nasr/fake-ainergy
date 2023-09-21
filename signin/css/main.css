@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    transition: all 0.4s;
 }
 
 html {
@@ -54,6 +55,27 @@ html {
 .nav ul li {
     padding: 10px 10px;
     padding-right: 20px;
+}
+
+.nav ul li i {
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+.yellow {
+    color: yellow;
+    text-shadow: 0px 0px 5px yellow;
+}
+
+.dark {
+    color: white;
+    background-color: #121212;
+}
+
+.innerDark {
+    color: white;
+    background-color: #202020;
 }
 
 .nav ul li a {
